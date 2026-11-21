@@ -1,0 +1,1 @@
+export{r as CanvasRenderer}from"./renderer-BXGI1S7z.js";
