@@ -1,1 +1,0 @@
-export{n as WebGLRenderer}from"./renderer-BXGI1S7z.js";

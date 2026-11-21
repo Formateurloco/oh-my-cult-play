@@ -1,4 +1,4 @@
-import{t as e}from"./style-BPaqvitU.js";import{n as t,t as n}from"./references-ChM0bedI.js";var r=document.querySelector(`#app`);r.innerHTML=`
+import{t as e}from"./style-CoCMb56b.js";import{n as t,t as n}from"./references-ChM0bedI.js";var r=document.querySelector(`#app`);r.innerHTML=`
   <main class="tutorial-home" style="--home-art: url('${e(`prieres`)}')">
     <section class="tutorial-home-content" aria-label="Accueil">
       <h1>Oh My Cult !</h1>

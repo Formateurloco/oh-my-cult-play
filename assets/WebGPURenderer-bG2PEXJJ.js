@@ -1,1 +1,0 @@
-export{t as WebGPURenderer}from"./renderer-BXGI1S7z.js";
