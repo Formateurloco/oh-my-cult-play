@@ -1,1 +1,0 @@
-import{i as e}from"./local-DqS3sAgF.js";var t=`oh-my-cult-local-setup`;function n(){try{let n=JSON.parse(sessionStorage.getItem(t)??`null`);return e(n)?n:void 0}catch{return}}function r(e){sessionStorage.setItem(t,JSON.stringify(e))}export{r as n,n as t};

@@ -1,4 +1,4 @@
-import{r as e,t}from"./style-DmQdW7Aj.js";import{r as n,t as r}from"./local-DqS3sAgF.js";import{n as i}from"./setup-storage-Bv5dgzSH.js";var a=document.querySelector(`#app`);a.innerHTML=`<main class="setup-scene"><a href="?mode=accueil" class="setup-back">← Accueil</a>
+import{r as e,t}from"./style-DmQdW7Aj.js";import{r as n,t as r}from"./local-BXzhNEEv.js";import{n as i}from"./setup-storage-BcGUsah-.js";var a=document.querySelector(`#app`);a.innerHTML=`<main class="setup-scene"><a href="?mode=accueil" class="setup-back">← Accueil</a>
   <section class="setup-panel" aria-labelledby="setup-title">
     <h1 id="setup-title">Jouer en local</h1><div id="setup-body"></div>
   </section>
