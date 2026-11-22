@@ -1,4 +1,4 @@
-import{i as e,n as t,r as n,t as r}from"./references-ObuEyNZh.js";import{t as i}from"./art-DbA99ezU.js";import"./index-D_BFs9M2.js";var a=document.querySelector(`#app`);a.innerHTML=`
+import{i as e,n as t,r as n,t as r}from"./references-ObuEyNZh.js";import{t as i}from"./art-DbA99ezU.js";import"./index-CyI8LzFg.js";var a=document.querySelector(`#app`);a.innerHTML=`
   <main class="tutorial-home" style="--home-art: url('${i(`prieres`)}')">
     <section class="tutorial-home-content" aria-label="Accueil">
       <h1>Oh My Cult !</h1>
