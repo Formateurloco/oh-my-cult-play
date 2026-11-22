@@ -1,0 +1,1 @@
+export{t as WebGPURenderer}from"./renderer-BWVMiTPg.js";
